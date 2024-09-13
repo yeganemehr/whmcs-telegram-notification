@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-notifications",
+  "name": "Telegram Notification Module",
+  "license": "MIT",
+  "category": "notifications",
+  "description": {
+    "name": "Telegram Notification Module",
+    "tagline": "A simple module to send notifications to a Telegram chat.",
+    "long": "Setup advanced rule based notifications for events and triggers that matter to you and receive those notifications to telegram.",
+    "features": [
+      "Setup rule based events and triggers",
+      "Receive notifications to telegram"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "docs_url": "https:\/\/github.com\/yeganemehr\/whmcs-telegram-notification"
+  },
+  "authors": [
+    {
+      "name": "Amir H. Yeganemehr",
+      "homepage": "https:\/\/github.com\/yeganemehr"
+    }
+  ]
+}
